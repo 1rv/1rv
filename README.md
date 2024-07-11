@@ -4,7 +4,7 @@ I'm currently a sophmore at the University of Chicago studying Mathematics and C
 
 ---
 ## Personal Projects
-#### Trader Titans - [trader-titans.netlify.app](https://tradertitans.netlify.app/)
+#### Trader Titans - [tradertitans.netlify.app](https://tradertitans.netlify.app/)
 Developed a web-based multiplayer game that involves trading and market making concepts using React for the frontend, Node.js for the backend, and Socket.IO for client/server connection. Used by finance clubs at UChicago to practice trading and risk assessment in a competitive (but friendly) environment.
 #### diary.vim - [1rv/vim-diary](https://github.com/1rv/vim-diary)
 Updated a deprecated [timer plugin](https://github.com/mkropat/vim-tt) and changed it to support my specific needs, and implemented a task-tracking diary as a plugin to Vim and Neovim. Includes a customizable timer that defaults to a basic pomodor timer.
